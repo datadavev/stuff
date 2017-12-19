@@ -30,7 +30,6 @@ import os
 # ones.
 extensions = [
     'sphinx.ext.ifconfig',
-    'abstrys.sphinx.docbook_builder',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -46,8 +45,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'DataONE Google Drive Metadata'
-copyright = u'2015, DataONE'
+project = u'Google Drive Metadata'
+copyright = u'2015-2017, Dave Vieglais'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -235,8 +234,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'dataonegoogledrivemetadata', u'DataONE Google Drive Metadata Documentation',
-     [u'DataONE'], 1)
+    ('index', 'googledrivemetadata', u'Google Drive Metadata Documentation',
+     [u'GDrive'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -249,8 +248,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'DataONEGoogleDriveMetadata', u'DataONE Google Drive Metadata Documentation',
-   u'DataONE', 'DataONEGoogleDriveMetadata', 'One line description of project.',
+  ('index', 'GoogleDriveMetadata', u'Google Drive Metadata Documentation',
+   u'GDrive', 'GoogleDriveMetadata', 'One line description of project.',
    'Miscellaneous'),
 ]
 
