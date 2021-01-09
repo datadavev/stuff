@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T20:06:42.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="rqvBcodIgXjIFND1no7i" version="14.1.9" type="github"><diagram id="RGd7XV1pYTuo3tuU7DHx" name="Page-1">jZJNb8MgDIZ/TY6bQlCrnJemqzr11MPWU0QTD5AgRJQuyX79aGPyoarSDgTnsY3htSOa6e7dskYcTAUqSuKqi+gmShJC09hvN9IjIYQOhFtZIZvAUf4CQkzkV1nBZRHojFFONktYmrqG0i0Ys9a0y7Bvo5ZVG8bhARxLph7pp6ycGGi6iie+A8lFqExi9GgWghFcBKtMO0M0j2hmjXGDpbsM1E29oMuQt33iHS9moXb/SdjvT9uvg1lfRLKzHys40vT0gqf8MHXFB+NlXR8UkPou0ZtwWnlCvIloIzX39ZQ8+2+pZFMw67zJoQbLfO1t7oEouDJnKEiSdn69NjXHomAddE9fQ0aN/HSB0eBs70MwYY2q4lyFfrSzHiESs/YExnAq+HjuJJw3ULvwO/Xo7puNOs3/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-09T21:38:20.650Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="fj6tqneFr0V8C6LZN5ew" version="14.1.9" type="github">
+  <diagram id="RGd7XV1pYTuo3tuU7DHx" name="Page-1">
+    <mxGraphModel dx="1380" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=120;entryDy=50;entryPerimeter=0;fontFamily=Cousine;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCousine;" edge="1" parent="1" source="s7zJEnfMQ0ALeU3BhG2H-9" target="s7zJEnfMQ0ALeU3BhG2H-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JJYFXMo6sh2HrK5eS38Y-1" target="s7zJEnfMQ0ALeU3BhG2H-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=80;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s7zJEnfMQ0ALeU3BhG2H-1" target="s7zJEnfMQ0ALeU3BhG2H-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Cousine;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCousine;" edge="1" parent="1" source="s7zJEnfMQ0ALeU3BhG2H-1" target="s7zJEnfMQ0ALeU3BhG2H-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-1" value="Physical&lt;br&gt;Sample" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;fontFamily=Cousine;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCousine;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="660" y="400" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" edge="1" parent="1" source="s7zJEnfMQ0ALeU3BhG2H-4" target="s7zJEnfMQ0ALeU3BhG2H-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-4" value="Measurement&lt;br&gt;Data" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontFamily=Cousine;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCousine;" vertex="1" parent="1">
+          <mxGeometry x="631.34" y="40" width="117.33" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-5" value="Metadata" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontFamily=Cousine;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCousine;" vertex="1" parent="1">
+          <mxGeometry x="190" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s7zJEnfMQ0ALeU3BhG2H-9" target="s7zJEnfMQ0ALeU3BhG2H-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-9" value="Process creating&lt;br&gt;physical sample" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Cousine;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCousine;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-13" value="" style="group;fontFamily=Cousine;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCousine;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="50" width="105" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JJYFXMo6sh2HrK5eS38Y-1" value="" style="image;html=1;image=img/lib/clip_art/general/Earth_globe_128x128.png" parent="s7zJEnfMQ0ALeU3BhG2H-13" vertex="1">
+          <mxGeometry x="5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-6" value="Physical World" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Cousine;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCousine;" vertex="1" parent="s7zJEnfMQ0ALeU3BhG2H-13">
+          <mxGeometry x="-15" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-15" value="Metadata" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontFamily=Cousine;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCousine;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Cousine;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCousine;" edge="1" parent="1" source="s7zJEnfMQ0ALeU3BhG2H-18" target="s7zJEnfMQ0ALeU3BhG2H-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s7zJEnfMQ0ALeU3BhG2H-18" target="s7zJEnfMQ0ALeU3BhG2H-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-18" value="Process creating&lt;br&gt;measurement&lt;br&gt;data" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Cousine;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCousine;" vertex="1" parent="1">
+          <mxGeometry x="480" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-21" value="Metadata" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontFamily=Cousine;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCousine;" vertex="1" parent="1">
+          <mxGeometry x="490" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s7zJEnfMQ0ALeU3BhG2H-23" value="Metadata" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontFamily=Cousine;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCousine;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
