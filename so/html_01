@@ -9,7 +9,6 @@
         "@vocab": "https://schema.org/"
       },
       "@type": "Thing",
-      "@id":"id.a",
       "url": "https://ex.io/thing_01"
     }
   </script>
