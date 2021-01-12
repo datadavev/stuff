@@ -15,6 +15,6 @@
   </script>
 </head>
 <body>
-<p>Test document. HTML with json-ld embedded, case 01</p>
+<p>Test document html_01. HTML with json-ld, @id matches document name.</p>
 </body>
 </html>
