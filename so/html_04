@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTML_01</title>
+  <script type="application/ld+json" id="jid.01">
+    {
+      "@context": {
+        "@vocab": "https://schema.org/"
+      },
+      "@type": "Thing",
+      "@id": "#jid.01",
+      "name": "HTML Thing 4.1"
+    }
+  </script>
+  <script type="application/ld+json" id="jid.02">
+    {
+      "@context": {
+        "@vocab": "https://schema.org/"
+      },
+      "@type": "Thing",
+      "@id": "#jid.02",
+      "name": "HTML Thing 4.2"
+    }
+  </script>
+</head>
+<body>
+<p>Test document html_04. HTML with two json-ld blocks with @id matching the script element id.</p>
+</body>
+</html>
