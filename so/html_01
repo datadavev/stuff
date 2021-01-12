@@ -10,7 +10,7 @@
       },
       "@type": "Thing",
       "@id": "html_01",
-      "url": "https://ex.io/thing_01"
+      "name": "HTML Thing 1.1"
     }
   </script>
 </head>
