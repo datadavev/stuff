@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTML_02</title>
+  <script type="application/ld+json">
+    {
+      "@context": {
+        "@vocab": "https://schema.org/"
+      },
+      "@type": "Thing",
+      "@id": "jid.02",
+      "url": "https://ex.io/thing_01"
+    }
+  </script>
+</head>
+<body>
+<p>Test document html_02. HTML with json-ld, @id matches differs document name.</p>
+</body>
+</html>
