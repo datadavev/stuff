@@ -9,7 +9,7 @@
         "@vocab": "https://schema.org/"
       },
       "@type": "Thing",
-      "url": "https://ex.io/thing_01"
+      "name": "HTML Thing 3.1"
     }
   </script>
 </head>
