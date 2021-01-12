@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTML_03</title>
+  <script type="application/ld+json">
+    {
+      "@context": {
+        "@vocab": "https://schema.org/"
+      },
+      "@type": "Thing",
+      "url": "https://ex.io/thing_01"
+    }
+  </script>
+</head>
+<body>
+<p>Test document html_03. HTML with json-ld, no @id specified.</p>
+</body>
+</html>
