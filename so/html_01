@@ -3,17 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <title>HTML_01</title>
-  <script type="application/ld+json" id="01">
+  <script type="application/ld+json">
     {
       "@context": {
         "@vocab": "https://schema.org/"
       },
       "@type": "Thing",
+      "@id": "html_01",
       "url": "https://ex.io/thing_01"
     }
   </script>
 </head>
 <body>
-
+<p>Test document. HTML with json-ld embedded, case 01</p>
 </body>
 </html>
